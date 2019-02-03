@@ -8,3 +8,6 @@ Download: [v1.0.2](https://github.com/luckman212/clipmerge-alfred-workflow/blob/
 
 Trigger with keyword `cm` (no space afterward) e.g. `cm7`
 ![](screenshot1.png)
+
+You can set your own MIN_CLIPS and MAX_CLIPS by going into the variables section of the workflow:
+![](options.png)
