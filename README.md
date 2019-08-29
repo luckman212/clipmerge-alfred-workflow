@@ -11,3 +11,6 @@ Trigger with keyword `cm` (no space afterward) e.g. `cm7`
 
 You can set your own MIN_CLIPS and MAX_CLIPS by going into the variables section of the workflow:
 ![](options.png)
+
+Discussion on Alfred forum:
+https://www.alfredforum.com/topic/12190-merge-last-n-number-of-clipboards/
